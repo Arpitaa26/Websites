@@ -1,0 +1,162 @@
+@media only screen and (max-width: 1222px) and (min-width: 999px) {}
+
+@media only screen and (max-width: 1658px) and (min-width: 1000px) {}
+
+@media only screen and (max-width: 1002px) and (min-width: 665px) {}
+
+@media only screen and (max-width: 664px) and (min-width: 300px) {}
+
+
+/* js_cont_justify */
+
+@media only screen and (max-width: 1398px) and (min-width: 993px) {}
+
+@media only screen and (max-width: 999px) and (min-width: 300px) {}
+
+@media only screen and (max-width: 826px) and (min-width: 300px) {}
+
+@media only screen and (max-width: 480px) and (min-width: 300px) {}
+
+@media only screen and (max-width: 370px) and (min-width: 320px) {}
+
+@media only screen and (max-width: 900px) and (min-width: 300px) {
+    .mobile-menus {
+        display: none;
+    }
+    .inner_banner_img>img {
+        width: 100%;
+    }
+    .inner_banner_content>h2 {
+        font-size: 32px;
+        line-height: 34px;
+        margin-bottom: 15px !important;
+    }
+    .inner_banner_content>h4 {
+        font-size: 18px;
+    }
+    .banner-sections {
+        padding: 35px 0px;
+    }
+    .abt_img_boxs_inner>img {
+        width: 100%;
+    }
+    .banner_content {
+        padding-bottom: 35px;
+    }
+    .inmner_abt_cont>h3 {
+        font-size: 22px;
+    }
+    .inmner_abt_cont>p {
+        font-size: 14px;
+    }
+    .card.cards-box {
+        margin-bottom: 45px;
+    }
+    .about_main_sections {
+        margin-top: 35px;
+    }
+    .icon_with_text {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+    .our_team_sections {
+        margin: 0px 20px;
+        padding-top: 30px;
+    }
+    .about_main_sections.team_class {
+        margin-top: 0;
+    }
+    .site_btns.team-btn {
+        margin-top: 13px;
+    }
+    .inmner_abt_cont>h3 {
+        margin-bottom: 8px;
+    }
+    .inner_banner_img>img {
+        width: 100%;
+    }
+    .inner_banner_content>h2 {
+        font-size: 32px;
+        line-height: 34px;
+        margin-bottom: 15px !important;
+    }
+    .inner_banner_content>h4 {
+        font-size: 18px;
+    }
+    .banner-sections {
+        padding: 35px 0px;
+    }
+    .main-slider-section {
+        padding: 80px 28px;
+    }
+    .first-section {
+        margin-bottom: 30px;
+    }
+    .under_footer_section {
+        margin-top: 30px !important;
+    }
+    .inner_Footer_section {
+        padding: 45px 0px;
+    }
+}
+
+@media only screen and (max-width: 790px) and (min-width: 300px) {
+    .desk-top-menu {
+        display: none;
+    }
+    .mobile_humberger>a {
+        font-size: 25px;
+        color: #1c39bb;
+    }
+    .mobile_humberger {
+        margin-left: 12px;
+        display: block;
+    }
+    button.rq_btn {
+        padding: 10px 14px;
+        color: #eeeeef;
+        font-size: 12px;
+        font-family: Montserrat;
+        font-weight: 500;
+        word-wrap: break-word;
+        background: #1c39bb;
+        border-radius: 8px;
+    }
+}
+
+@media only screen and (max-width: 1920px) and (min-width: 1080px) {}
+
+@media only screen and (max-width: 999px) and (min-width: 826px) {}
+
+@media only screen and (max-width: 11200px) and (min-width: 1600px) {}
+
+@media only screen and (max-width: 999px) and (min-width: 400px) {}
+
+@media only screen and (max-width: 999px) and (min-width: 551px) {}
+
+@media only screen and (max-width: 1382px) and (min-width: 1000px) {}
+
+@media only screen and (max-width: 1480px) and (min-width: 1000px) {}
+
+@media only screen and (max-width: 1524px) and (min-width: 1422px) {}
+
+@media only screen and (max-width: 1657) and (min-width: 1524px) {}
+
+@media only screen and (max-width: 11200px) and (min-width: 1400px) {}
+
+@media only screen and (max-width: 1000px) and (min-width: 700px) {}
+
+@media only screen and (max-width: 999px) and (min-width: 300px) {}
+
+@media only screen and (max-width: 999px) and (min-width: 768px) {}
+
+@media only screen and (max-width: 550px) and (min-width: 300px) {
+    .under-right {
+        justify-content: start;
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width: 4999px) and (min-width: 999px) {}
+
+@media only screen and (max-height: 4999px) and (min-height: 990px) {}
